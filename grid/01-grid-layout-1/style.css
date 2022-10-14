@@ -31,7 +31,6 @@ body, html {
 .header {
   background-color: #FFDE22;
   grid-area: header;
-
 }
 
 .sidebar {
